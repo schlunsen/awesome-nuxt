@@ -140,7 +140,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
  - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
  - [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!).
- - [Holadu.com](https://holadu.com) - Holadu | Find events near you.
+ - [Holadoo.com](https://holado.com) - Holadoo | Find events near you.
  - [Cambridge Epigenetix](https://cambridge-epigenetix.com/) - Cambridge Epigenetix is pioneering the development and application of novel epigenetics-based diagnostics and therapeutics that will revolutionise the way we detect and treat disease.
  - [Developmint.de](https://developmint.de/?ref=awesome-nuxt) - Company page built with NuxtJS and TailwindCSS, including i18n, meta/og-tags and more!
  - [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
